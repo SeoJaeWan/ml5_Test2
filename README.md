@@ -17,7 +17,9 @@ also change ml5 version 0.5.0 , same code.
 line 56 Error 
 
 ![image](https://user-images.githubusercontent.com/52366178/78227681-977d9780-7508-11ea-917d-b94c6ce96aef.png)
+
 Error: TypeError: Cannot read property 'xs' of undefined
 
 but, not find line 50~ 55 Error 
+
 ![image](https://user-images.githubusercontent.com/52366178/78227902-f3e0b700-7508-11ea-89e4-4d6d1169f11e.png)
